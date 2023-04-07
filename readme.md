@@ -2,8 +2,8 @@
 It's  waiting for your feed-back...
 
 ## ERD
-![](/)<br>
-[Link for DBdiagram.io](/Untitled (2).png)<br>
+![](/Untitled (2).png)<br>
+[Link for DBdiagram.io](https://dbdiagram.io/d/6430205a8615191cfa8c3378)<br>
 ![](/erperd.png)<br>
 
 ## feature
