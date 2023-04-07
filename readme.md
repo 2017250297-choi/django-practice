@@ -2,9 +2,9 @@
 It's  waiting for your feed-back...
 
 ## ERD
-![](https://github.com/2017250297-choi/Django-practice-ERP/blob/main/Untitled%20(2).png?raw=true)<br>
-[Link for DBdiagram.io](https://dbdiagram.io/d/6430205a8615191cfa8c3378)<br>
-![](https://github.com/2017250297-choi/Django-practice-ERP/blob/main/erperd.png?raw=true)<br>
+![](/)<br>
+[Link for DBdiagram.io](/Untitled (2).png)<br>
+![](/erperd.png)<br>
 
 ## feature
 - You can enlist yout own cloth product. Choose among 3 hood type, one jean type.
